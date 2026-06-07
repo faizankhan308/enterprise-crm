@@ -1,0 +1,61 @@
+[
+  {
+    "id": "act-01",
+    "targetType": "lead",
+    "targetId": "l-01",
+    "type": "Call",
+    "title": "Introductory Discovery Call",
+    "description": "Discussed cloud migration path. Client is using a legacy on-prem solution. Eager to see proposal.",
+    "date": "2026-05-16T10:00:00.000Z",
+    "createdBy": "u-exec-01",
+    "createdByName": "Elena Rostova"
+  },
+  {
+    "id": "act-02",
+    "targetType": "lead",
+    "targetId": "l-01",
+    "type": "Email",
+    "title": "Sent Proposal & Architecture Slides",
+    "description": "Sent detailed tier-2 proposal document via CRM email.",
+    "date": "2026-06-03T11:00:00.000Z",
+    "createdBy": "u-exec-01",
+    "createdByName": "Elena Rostova"
+  },
+  {
+    "id": "act-03",
+    "targetType": "lead",
+    "targetId": "l-02",
+    "type": "Call",
+    "title": "Brief Phone Screening",
+    "description": "Scheduled pilot requirements. Jessica has minor resistance with current timeline, needs follow-up.",
+    "date": "2026-05-20T14:30:00.000Z",
+    "createdBy": "u-exec-02",
+    "createdByName": "Jordan Chase",
+    "reminderDate": "2026-06-10T09:00:00.000Z",
+    "reminderDone": false
+  },
+  {
+    "id": "act-04",
+    "targetType": "lead",
+    "targetId": "l-04",
+    "type": "Meeting",
+    "title": "Interactive Web Demo with Stakeholders",
+    "description": "Showed real-time visualization dashboard. Product fit was verified. Drafted contract parameters.",
+    "date": "2026-05-28T15:00:00.000Z",
+    "createdBy": "u-exec-02",
+    "createdByName": "Jordan Chase"
+  },
+  {
+    "id": "act-05",
+    "targetType": "customer",
+    "targetId": "c-01",
+    "type": "Note",
+    "title": "Consultation Feedback Notes",
+    "description": "Nate requested an extra onboarding session for their European sales desks next month.",
+    "date": "2026-04-10T16:00:00.000Z",
+    "createdBy": "u-admin-01",
+    "createdByName": "Sarah Jenkins",
+    "reminderDate": "2026-06-12T10:00:00.000Z",
+    "reminderDone": false
+  }
+]

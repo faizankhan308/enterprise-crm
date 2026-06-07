@@ -1,0 +1,74 @@
+[
+  {
+    "id": "l-01",
+    "name": "Robert Chen",
+    "company": "Veloce Logistics",
+    "email": "r.chen@velocelogistics.com",
+    "phone": "+1 (555) 489-3011",
+    "source": "Website",
+    "status": "Qualified",
+    "assignedTo": "u-exec-01",
+    "createdAt": "2026-05-15T10:20:00.000Z",
+    "updatedAt": "2026-06-01T14:30:00.000Z"
+  },
+  {
+    "id": "l-02",
+    "name": "Jessica Fowler",
+    "company": "Apex Health Systems",
+    "email": "jfowler@apexhealth.org",
+    "phone": "+1 (555) 302-8877",
+    "source": "Partner",
+    "status": "Contacted",
+    "assignedTo": "u-exec-02",
+    "createdAt": "2026-05-18T11:45:00.000Z",
+    "updatedAt": "2026-06-07T07:24:40.846Z"
+  },
+  {
+    "id": "l-03",
+    "name": "David Vance",
+    "company": "Core Solutions Co",
+    "email": "d.vance@coresolutions.net",
+    "phone": "+1 (555) 712-4091",
+    "source": "Cold Call",
+    "status": "New",
+    "assignedTo": "u-exec-01",
+    "createdAt": "2026-06-05T09:00:00.000Z",
+    "updatedAt": "2026-06-05T09:00:00.000Z"
+  },
+  {
+    "id": "l-04",
+    "name": "Amanda Lin",
+    "company": "Vertex Media Group",
+    "email": "alin@vertexmedia.com",
+    "phone": "+1 (555) 902-1209",
+    "source": "Social Media",
+    "status": "Qualified",
+    "assignedTo": "u-exec-02",
+    "createdAt": "2026-05-10T14:00:00.000Z",
+    "updatedAt": "2026-05-28T11:00:00.000Z"
+  },
+  {
+    "id": "l-05",
+    "name": "Michael Sterling",
+    "company": "Sterling Capital",
+    "email": "m.sterling@sterlingcap.com",
+    "phone": "+1 (555) 123-4567",
+    "source": "Referral",
+    "status": "New",
+    "assignedTo": "u-exec-02",
+    "createdAt": "2026-06-06T15:20:00.000Z",
+    "updatedAt": "2026-06-06T15:20:00.000Z"
+  },
+  {
+    "id": "l-06",
+    "name": "Karla Wagner",
+    "company": "Dravus Automobiles",
+    "email": "k.wagner@dravus.de",
+    "phone": "+49 89 201948",
+    "source": "Partner",
+    "status": "Unqualified",
+    "assignedTo": "u-exec-01",
+    "createdAt": "2026-05-01T10:00:00.000Z",
+    "updatedAt": "2026-05-15T15:00:00.000Z"
+  }
+]

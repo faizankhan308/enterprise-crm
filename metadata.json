@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise CRM",
+  "description": "An enterprise-grade Customer Relationship Management system for managing leads, customer communications, pipelines, and performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

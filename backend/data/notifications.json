@@ -1,0 +1,29 @@
+[
+  {
+    "id": "nt-01",
+    "userId": "u-exec-01",
+    "title": "New Lead Assignment",
+    "message": "Lead \"David Vance\" from Core Solutions Co has been assigned to you.",
+    "type": "Assignment",
+    "read": false,
+    "createdAt": "2026-06-05T09:00:00.000Z"
+  },
+  {
+    "id": "nt-02",
+    "userId": "u-exec-02",
+    "title": "Follow-up Reminder",
+    "message": "You have a pending phone callback reminder for Jessica Fowler (Apex Health).",
+    "type": "Reminder",
+    "read": false,
+    "createdAt": "2026-06-07T06:00:00.000Z"
+  },
+  {
+    "id": "nt-03",
+    "userId": "u-manager-01",
+    "title": "Deal Won Alert",
+    "message": "Sales Rep Jordan Chase changed deal \"Strategic CRM Integration\" to WON ($120,000)!",
+    "type": "StageChange",
+    "read": false,
+    "createdAt": "2026-06-04T16:45:00.000Z"
+  }
+]

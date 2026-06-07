@@ -1,0 +1,71 @@
+[
+  {
+    "id": "c-01",
+    "leadId": "l-converted-01",
+    "name": "Nate Robinson",
+    "company": "Skyward Enterprises",
+    "email": "nate@skywardent.com",
+    "phone": "+1 (555) 890-4411",
+    "purchaseHistory": [
+      {
+        "itemId": "p-01",
+        "itemName": "SaaS Enterprise license",
+        "amount": 48000,
+        "date": "2026-03-12T10:00:00Z"
+      },
+      {
+        "itemId": "p-02",
+        "itemName": "Custom SLA Consulting Bundle",
+        "amount": 12000,
+        "date": "2026-04-05T14:30:00Z"
+      }
+    ],
+    "notes": [
+      "Excellent collaborator. Highly interested in API extensions in Q3.",
+      "Consistently pays invoices on Net-15 terms."
+    ],
+    "createdAt": "2026-02-14T08:00:00.000Z"
+  },
+  {
+    "id": "c-02",
+    "leadId": "l-converted-02",
+    "name": "Clara Oswald",
+    "company": "Chronos Laboratories",
+    "email": "clara@chronoslavs.org",
+    "phone": "+1 (555) 111-9988",
+    "purchaseHistory": [
+      {
+        "itemId": "p-01",
+        "itemName": "SaaS Professional License (50 users)",
+        "amount": 24000,
+        "date": "2026-05-02T11:00:00Z"
+      }
+    ],
+    "notes": [
+      "Required standard HIPAA compliant agreement during negotiations.",
+      "Assigned primary manager as Marcus Vance."
+    ],
+    "createdAt": "2026-04-20T09:45:00.000Z"
+  },
+  {
+    "id": "c-03",
+    "leadId": "l-converted-03",
+    "name": "Zane Thompson",
+    "company": "Elysium Digital",
+    "email": "zane@elysium.co",
+    "phone": "+1 (555) 345-6712",
+    "purchaseHistory": [
+      {
+        "itemId": "p-03",
+        "itemName": "Migration Setup & Dedicated Hosting",
+        "amount": 15000,
+        "date": "2026-05-25T16:00:00Z"
+      }
+    ],
+    "notes": [
+      "Converting from old Salesforce installation.",
+      "Completed sandbox sandbox setup on May 20."
+    ],
+    "createdAt": "2026-05-12T13:00:00.000Z"
+  }
+]

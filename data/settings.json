@@ -1,0 +1,8 @@
+[
+  {
+    "companyName": "Acme Enterprises Inc.",
+    "currency": "USD",
+    "leadConversionRateTarget": 30,
+    "monthlyRevenueTarget": 150000
+  }
+]

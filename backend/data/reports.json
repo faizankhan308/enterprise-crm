@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rep-01",
+    "title": "Q2 Core Sales and Pipeline Velocity",
+    "type": "Sales",
+    "createdBy": "u-manager-01",
+    "criteria": {
+      "startDate": "2026-04-01",
+      "endDate": "2026-06-30"
+    },
+    "generatedData": {
+      "totalDeals": 8,
+      "wonDeals": 2,
+      "wonValue": 72000,
+      "pipelineValue": 420000,
+      "expectedRevenue": 227250
+    },
+    "createdAt": "2026-06-01T17:00:00.000Z"
+  }
+]
